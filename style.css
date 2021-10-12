@@ -1,0 +1,14 @@
+header {
+    height: 100vh;
+}
+body {
+    background-image: linear-gradient(to top, #234A57, #56B6D6);
+}
+section {
+    height: 100px;
+    background-color: rgb(243, 243, 243);
+    border: solid black 1px;
+}
+footer {
+    height: 200px;
+}
